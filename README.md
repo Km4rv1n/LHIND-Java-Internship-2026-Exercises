@@ -1,1 +1,1 @@
-Solutions for LHIND Java Internship 2026 Assigments
+Solutions for LHIND Java Internship 2026 Assignments
